@@ -1,18 +1,16 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
+export const leagueID = "989928038173327360"; // your league ID
+export const leagueName = "Play-Action PASCO"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to <b>Play-Action PASCO</b> - where the thrill of victory and the camaraderie of coworkers collide on the virtual gridiron! We're not just your typical Fantasy Football league; we're a group of colleagues who know that winning is more than just a goal; it's an obsession. What sets us apart is that every touchdown, every fumble, and every nail-biting Sunday showdown is experienced together, building the bonds that make our workplace special.</p>
+  <p>Our league isn't just about individual glory; it's about team pride. As you strive to claim the coveted <i>Just A Champion</i> Trophy or the ultimate <i>Champion of Champions</i> belt, remember, you're not just competing against your fellow coworkers in <b>Play-Action PASCO</b>. You're also vying for supremacy against our rivals from <b>PASCO Interference</b>. To secure that belt, you not only need to win the championship game but also outscore the champion of the other league. It's the ultimate fantasy challenge, and we wouldn't have it any other way.</p>
+  <p>So, get ready for a season of fun, competition, and professional-grade trash talk. This is <b>Play-Action PASCO</b>, where we work hard and play harder. Let the games begin!</p>
+  <p><i>To see <B>PASCO Interference's</B> site, <a href="https://www.chrismlaney.com">go here</a>.</i></p>
 `;
 
 /*   STEP 3   */
